@@ -11,5 +11,6 @@ Companies & Organizations
 
 Countries
 ----
+* Brand Estonia: https://brand.estonia.ee/
 * Identity of Finland: http://toolbox.finland.fi/toolbox/identity-of-finland/
 * Sweden Identity Toolbox: http://sweden.identitytool.com/
