@@ -7,6 +7,7 @@ Crowdsourced collection of public interactive CVI guidelines. While forking, ple
 Companies & Organizations
 ----
 * Norwegian National Parks: http://designmanual.norgesnasjonalparker.no/
+* [Audi Brand Appearance](http://www.audi.com/ci)
 
 
 Countries
