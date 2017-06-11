@@ -8,6 +8,7 @@ Companies & Organizations
 ----
 * Norwegian National Parks: http://designmanual.norgesnasjonalparker.no/
 * [Audi Brand Appearance](http://www.audi.com/ci)
+* [Facebook Brand Resource Center](https://en.facebookbrand.com/)
 
 
 Countries
